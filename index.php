@@ -11,6 +11,7 @@
 </head>
 <body>
 <?php include 'header.php'; ?>
+<?php include 'Database/configDb.php'; ?>
 
 <div class="container mt-5">
     <h1>Bienvenue sur mon blog !</h1>
